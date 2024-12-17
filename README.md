@@ -1,17 +1,17 @@
- <h2>BasearpsID</h2>
+ <h2>Henry-hub-ID-verify</h2>
 <p>
-  BasearpsID is a unified Institution ID card system designed to streamline access across all facilities within an institution,
-  eliminating the need for multiple ID cards. Additionally, it integrates with blockchain technology Using Base/Coinbase,
+  Henry-hub-ID-verify is a unified Institution ID card system designed to streamline access across all facilities within an institution,
+  eliminating the need for multiple ID cards. Additionally, it integrates with blockchain technology Using thirdweb SDK,
   enabling seamless transactions between different wallets.
 </p>
 
-<p> BasearpsID Combines all your Institution ID card- library, hostel, ICT, clinic - into One.
- With BasearpsID , access Every Facility Seamlessly and Effectively with a single card.
-We use BASE(Base Sepolia) for making transcations .
+<p> Henry-hub-ID-verify Combines all your Institution ID card- library, hostel, ICT, clinic - into One.
+ With Henry-hub-ID-verify, access Every Facility Seamlessly and Effectively with a single card.
+We use Mantle(Mantle Sepolia Testnet) for making transcations .
 Our Market Audience are Institutions.
 </p>
 
-<i> To run this project cd into the BasearpsID directory and run </i>
+<i> To run this project cd into the Henry-hub-ID-verify directory and run </i>
 </br>
 <b> npm install </b>
 </br>
