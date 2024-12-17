@@ -15,7 +15,7 @@ import Providers from "./providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "BasearpsID",
+  title: "Henry-hub-ID-verify",
   description: "Seamless Institution Experience: Identity, Payments, and Access",
 };
 

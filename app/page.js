@@ -22,7 +22,7 @@ const page = () => {
       <div>
         <div className="w-[90%] mx-auto py-16">
           <div className="text-center text-3xl font-medium">
-            <h4>Why Choose BasearpsID</h4>
+            <h4>Why Choose Henry-hub-ID-verify</h4>
           </div>
 
           <div className="grid lg:grid-cols-3 gap-10 pt-10">
@@ -62,7 +62,7 @@ const page = () => {
                 <div>
                     <DiamondPlus />
                 </div>
-                <div>BasearpsID</div>
+                <div>Henry-hub-ID-verify</div>
           </Link>
 
           {/* <div>
